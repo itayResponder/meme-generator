@@ -22,7 +22,7 @@ function createLine(text, x, y, fontSize, fontType, align, color) {
         x: x,
         y: y,
         fontSize: fontSize,
-        fontType: fontYype,
+        fontType: fontType,
         align: align,
         color: color
     }
